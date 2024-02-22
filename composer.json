@@ -1,5 +1,28 @@
 {
     "require": {
-        "geoip2/geoip2": "~2.0"
+        "geoip2/geoip2": "~2.0",
+        "php": ">=7.0",
+        "johnpbloch/wordpress": ">=5.0"
+    },
+    "name": "jackvargo/pmpro-local-pricing",
+    "description": null,
+    "type": "wordpress-plugin",
+    "homepage": null,
+    "authors": [
+        {
+            "name": "strangerstudios",
+            "homepage": "https://github.com/strangerstudios"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/strangerstudios/pmpro-local-pricing",
+        "issues": "https://github.com/strangerstudios/pmpro-local-pricing/issues"
+    },
+    "extra": {
+        "original_repository": "https://github.com/strangerstudios/pmpro-local-pricing",
+        "stars": 0,
+        "watchers": 0,
+        "forks": 1,
+        "open_issues": 0
     }
 }
